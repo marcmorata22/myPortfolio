@@ -1,0 +1,7 @@
+.myHeader {
+    position: relative;
+    min-height: 90vh;
+    align-items: center;
+    background-image: url("/assets/image/code.jpg");
+    justify-content: center;
+}
