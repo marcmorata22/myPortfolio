@@ -1,7 +1,15 @@
 .myHeader {
     position: relative;
-    min-height: 90vh;
     align-items: center;
-    background-image: url("/assets/image/code.jpg");
+    text-align: center;
     justify-content: center;
+    padding: 10px;    
 }
+
+.textStyle{
+    visibility: visible; opacity: 1;
+    transition: opacity 0.4s cubic-bezier(0.5, 0, 0, 1) 0.35s;
+    color: #00ab55;
+    font-family:Times New Roman;
+     font-weight: 400;
+ }

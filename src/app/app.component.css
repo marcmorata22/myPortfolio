@@ -1,0 +1,16 @@
+.mynavbar{
+    padding: 15px;    
+    background: transparent;
+    border-bottom: solid;
+    border-width: 0.01px;
+    border-color:#4B4F58;
+    box-sizing: border-box;
+    position: fixed;
+    width: 100%;
+}
+.navbar__links {
+    list-style: none;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
