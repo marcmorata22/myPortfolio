@@ -1,6 +1,7 @@
 .mynavbar{
-    padding: 15px;    
-    background: transparent;
+    padding: 5px;       
+    background-color:rgba(22,28,36,0.8);
+    z-index: 5;
     border-bottom: solid;
     border-width: 0.01px;
     border-color:#4B4F58;
