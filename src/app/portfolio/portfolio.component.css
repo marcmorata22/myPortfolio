@@ -16,12 +16,11 @@
     height: 80px;
     }
     .image {        
-    background-image: url("/assets/image/portfolio.PNG");
     border-style: solid;
     border-color: white;
     border-width: 0.1px;
     position: relative;
-    width: 400px;
+    width: 280px;
     }
 
 .image__img {
