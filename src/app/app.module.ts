@@ -4,12 +4,14 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { HeaderComponent } from './header/header.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
    AppComponent,
    PortfolioComponent,
-   HeaderComponent
+   HeaderComponent,
+   ContactComponent
   ],
   imports: [
     BrowserModule,

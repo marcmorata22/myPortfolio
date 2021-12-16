@@ -15,3 +15,11 @@
     height: 100%;
     align-items: center;
 }
+.iconHome { 
+    color:green;
+    font-size: 120%;
+    color:white;
+}
+.iconHome:hover { 
+    color:#007b55;
+}
