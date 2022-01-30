@@ -1,5 +1,5 @@
 .margins {
-    padding-top: 30px;      
+    padding-top: 30px;
     padding-right: 30px;
     padding-left: 30px;
     padding-bottom: 20px;
@@ -8,24 +8,25 @@
     .importantWords {
         color: #007b55;
         font-weight: 600;
-    }
+      }
     .imgIcons {
-    color: var(--grey);
     padding: 5px;
     min-width: 80px;
     height: 80px;
+    border-radius:10px;
     }
-    .image {        
+    .image {
     border-style: solid;
     border-color: white;
     border-width: 0.1px;
     position: relative;
-    max-width: 400px;
+    border-radius:10px;
     }
 
 .image__img {
     display: block;
     width: 100%;
+    border-radius:10px;
     }
 
 .image__overlay {
@@ -49,6 +50,7 @@
 
 .image__overlay--primary {
     background: #007b55;
+    border-radius:10px;
     }
 
 .image__overlay > * {

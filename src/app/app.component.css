@@ -1,5 +1,5 @@
 .mynavbar{
-    padding: 5px;       
+    padding: 5px;
     background-color:rgba(22,28,36,0.8);
     z-index: 5;
     border-bottom: solid;
@@ -15,11 +15,25 @@
     height: 100%;
     align-items: center;
 }
-.iconHome { 
-    color:green;
+.iconHome {
     font-size: 120%;
     color:white;
 }
-.iconHome:hover { 
+.iconHome:hover {
+    transition-duration: 200ms;
     color:#007b55;
+}
+
+.navmenu{
+    display: block;
+    padding: .5rem 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-decoration: none;
+    color:white
+}
+
+.navmenu:hover {
+  transition-duration: 250ms;
+  color:#007b55;
 }

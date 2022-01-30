@@ -1,18 +1,18 @@
 .center{
     align-items: center;
     text-align: center;
-    justify-content: center;  
-    padding-top: 30px;      
+    justify-content: center;
+    padding-top: 30px;
     padding-right: 30px;
     padding-left: 30px;
     padding-bottom: 20px;
 }
 .grid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;   
+    grid-template-columns: 1fr 1fr 1fr;
 }
 .margins {
-    padding-top: 30px;      
+    padding-top: 30px;
     padding-right: 30px;
     padding-left: 30px;
     padding-bottom: 20px;
@@ -22,7 +22,8 @@
     color: #007b55;
     margin: 30px;
 }
-.contactIcons:hover { 
+.contactIcons:hover {
+  transition-duration: 250ms;
     color:whitesmoke;
 }
 .footer{
