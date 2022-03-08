@@ -32,11 +32,9 @@
               "node_modules/font-awesome/css/font-awesome.min.css"
             ],
             "scripts": [
-              "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/jquery/dist/jquery.min.js",
               "node_modules/@popperjs/core/dist/umd/popper.min.js",
-              "node_modules/myLibrary/bootstrap.min.js",
-              "node_modules/myLibrary/jquery-3.2.1.slim.min.js"            
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {
