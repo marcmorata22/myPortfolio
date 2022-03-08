@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     <script src="https://kit.fontawesome.com/a55cf2bb1e.js" crossorigin="anonymous"></script>
     npm i @fortawesome/fontawesome-free
     npm install bootstrap jquery @popperjs/core
-
+    ng deploy --base-href=https://marcmorata22.github.io/myPortfolio/
