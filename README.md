@@ -28,4 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Icons
     <script src="https://kit.fontawesome.com/a55cf2bb1e.js" crossorigin="anonymous"></script>
+    npm i @fortawesome/fontawesome-free
+    npm install bootstrap jquery @popperjs/core
 
