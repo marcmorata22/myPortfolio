@@ -27,8 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Tutorial
-    <script src="https://kit.fontawesome.com/a55cf2bb1e.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/a55cf2bb1e.js" crossorigin="anonymous"></script> 
     npm i @fortawesome/fontawesome-free
     npm install bootstrap jquery @popperjs/core
     ng add @angular/material
-    ng deploy --base-href=https://marcmorata22.github.io/myPortfolio/
+    ng deploy --base-href=https://marcmorata22.github.io/myPortfolio/ -> Deploy app in Github web
